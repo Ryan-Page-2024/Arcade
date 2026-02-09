@@ -1,2 +1,2 @@
 # LockedIn
-## This is a work in-progress game
+## This is currently a work in-progress game.
